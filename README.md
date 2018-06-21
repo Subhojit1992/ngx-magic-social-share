@@ -19,6 +19,11 @@ or
 yarn add ngx-magic-social-share
 ```
 
+## Demo
+
+<a href="https://codesandbox.io/embed/rlm77yvj1p?view=preview" target="_blank">ngx social share</a>
+
+
 In your "AppModule" file add this plugin
 ```TypeScript
 import { BrowserModule } from '@angular/platform-browser';
